@@ -1,6 +1,6 @@
 import React from "react";
 import "../index.css";
-import Camera from "react-html5-camera-photo";
+import Camera, { FACING_MODES } from "react-html5-camera-photo";
 import "react-html5-camera-photo/build/css/index.css";
 
 function CameraComponent() {
@@ -16,6 +16,8 @@ function CameraComponent() {
         <h3>Camera Button</h3>
         <h3>Click button to open it</h3>
         <Camera
+          isFullscreen={true}
+          idealFacingMode={FACING_MODES.ENVIRONMENT}
           onTakePhoto={(dataUri) => {
             handleTakePhoto(dataUri);
           }}
