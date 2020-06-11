@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32c806fced3b568fa8b5eef543a45079",
+    "revision": "9e53a1ffdde840c6ac0ea80e736a0606",
     "url": "/camera-test/index.html"
   },
   {
-    "revision": "852041ab48c76e77065e",
+    "revision": "5040946f94de2f7cbe5b",
     "url": "/camera-test/static/css/2.0939e70c.chunk.css"
   },
   {
-    "revision": "f55d7e1f4c3c7cd71893",
+    "revision": "38b210ca82f05153aca3",
     "url": "/camera-test/static/css/main.5b605b45.chunk.css"
   },
   {
-    "revision": "852041ab48c76e77065e",
-    "url": "/camera-test/static/js/2.bf288209.chunk.js"
+    "revision": "5040946f94de2f7cbe5b",
+    "url": "/camera-test/static/js/2.9a55144d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/camera-test/static/js/2.bf288209.chunk.js.LICENSE.txt"
+    "url": "/camera-test/static/js/2.9a55144d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f55d7e1f4c3c7cd71893",
-    "url": "/camera-test/static/js/main.6f75e055.chunk.js"
+    "revision": "38b210ca82f05153aca3",
+    "url": "/camera-test/static/js/main.7e27113f.chunk.js"
   },
   {
     "revision": "05505996601ff492ad76",
