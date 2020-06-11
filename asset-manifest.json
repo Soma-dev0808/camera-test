@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/camera-test/static/css/main.5b605b45.chunk.css",
-    "main.js": "/camera-test/static/js/main.8976e19f.chunk.js",
-    "main.js.map": "/camera-test/static/js/main.8976e19f.chunk.js.map",
+    "main.js": "/camera-test/static/js/main.6f75e055.chunk.js",
+    "main.js.map": "/camera-test/static/js/main.6f75e055.chunk.js.map",
     "runtime-main.js": "/camera-test/static/js/runtime-main.7bc20881.js",
     "runtime-main.js.map": "/camera-test/static/js/runtime-main.7bc20881.js.map",
     "static/css/2.0939e70c.chunk.css": "/camera-test/static/css/2.0939e70c.chunk.css",
     "static/js/2.bf288209.chunk.js": "/camera-test/static/js/2.bf288209.chunk.js",
     "static/js/2.bf288209.chunk.js.map": "/camera-test/static/js/2.bf288209.chunk.js.map",
     "index.html": "/camera-test/index.html",
-    "precache-manifest.76155fa831fe6588d2996dc2581806da.js": "/camera-test/precache-manifest.76155fa831fe6588d2996dc2581806da.js",
+    "precache-manifest.9f5f25accb45d3ef3884a04acddbb322.js": "/camera-test/precache-manifest.9f5f25accb45d3ef3884a04acddbb322.js",
     "service-worker.js": "/camera-test/service-worker.js",
     "static/css/2.0939e70c.chunk.css.map": "/camera-test/static/css/2.0939e70c.chunk.css.map",
     "static/css/main.5b605b45.chunk.css.map": "/camera-test/static/css/main.5b605b45.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.0939e70c.chunk.css",
     "static/js/2.bf288209.chunk.js",
     "static/css/main.5b605b45.chunk.css",
-    "static/js/main.8976e19f.chunk.js"
+    "static/js/main.6f75e055.chunk.js"
   ]
 }
