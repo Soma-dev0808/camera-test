@@ -15,13 +15,6 @@ function CameraComponent() {
       <div className="child-items fl-column">
         <h3>Camera Button</h3>
         <h3>Click button to open it</h3>
-        <Camera
-          isFullscreen={true}
-          idealFacingMode={FACING_MODES.ENVIRONMENT}
-          onTakePhoto={(dataUri) => {
-            handleTakePhoto(dataUri);
-          }}
-        ></Camera>
       </div>
       <div className="child-items">
         <h3>Hello</h3>
